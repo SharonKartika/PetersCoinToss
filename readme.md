@@ -1,2 +1,2 @@
 Ergodicity breaking example 
-view at: [sharonkartika.shiny.io/PetersCoinToss](https://sharonkartika.shiny.io/PetersCoinToss)
+view at: [sharonkartika.shinyapps.io/peterscointoss/](https://sharonkartika.shinyapps.io/peterscointoss/)
